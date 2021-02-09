@@ -1,0 +1,2 @@
+export CLASSPATH=$CLASSPATH:/home/debian/distributed_project/org.eclipse.paho.client.mqttv3-1.2.5.jar:/home/debian/distributed_project/mysql-connector-java-8.0.21.jar
+

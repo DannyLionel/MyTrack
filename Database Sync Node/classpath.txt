@@ -1,0 +1,1 @@
+export CLASSPATH=$CLASSPATH:/home/debian/distributed_project/mysql-connector-java-8.0.21.jar
