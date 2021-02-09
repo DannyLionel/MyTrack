@@ -17,9 +17,9 @@
         <activity android:name=".AddAuthorizedUser"></activity>
         <activity android:name=".AuthorizedUsersView" />
 
-        <meta-data
+       <!-- <meta-data
             android:name="com.google.android.geo.API_KEY"
-            android:value="AIzaSyBTarAGrfDjwDCyDDm5WwGgdaCMooF7q-s" />
+            android:value="AIzaSyBTarAGrfDjwDCyDDm5WwGgdaCMooF7q-s" />-->
 
         <activity android:name=".ManageTracker" />
         <activity android:name=".AddTracker" />
