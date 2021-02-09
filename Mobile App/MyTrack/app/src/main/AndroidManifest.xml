@@ -17,7 +17,7 @@
         <activity android:name=".AddAuthorizedUser"></activity>
         <activity android:name=".AuthorizedUsersView" />
 
-       <!-- <meta-data
+       <!-- need to change api key <meta-data
             android:name="com.google.android.geo.API_KEY"
             android:value="AIzaSyBTarAGrfDjwDCyDDm5WwGgdaCMooF7q-s" />-->
 
